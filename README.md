@@ -18,6 +18,7 @@ Make sure you have Python 3.7+ installed. It is recommended to use a virtual env
 ### Install required packages
 
 ```bash
+
 pip install numpy pandas scikit-learn torch
 
 
